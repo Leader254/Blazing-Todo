@@ -1,0 +1,41 @@
+﻿@page "/"
+<div class="row">
+    <div class="input-form col-6">
+        <AddTodo OnTodoCreate="TodoCreateHandler" />
+    </div>
+    
+<div class="todo-list col-6">
+    @foreach (var todo in todos)
+    {
+            <DisplayTodo newTodo="todo" OnTodoDelete="HandleTodoDelete"/>
+    }
+
+</div>
+</div>
+
+
+
+@code {
+
+    private List<TodoDto> todos = new List<TodoDto>();
+
+    public void TodoCreateHandler(TodoDto newTodo)
+    {
+        this.todos.Add(newTodo);
+    }
+
+    public void HandleTodoDelete(TodoDto todo)
+    {
+        try
+        {
+            var todelete = todos.Find(t => t.Id == todo.Id);
+            this.todos.Remove(todelete);
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+    }
+
+
+}

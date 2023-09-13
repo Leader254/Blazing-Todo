@@ -1,0 +1,12 @@
+D:\Training\C# .NET Training\BlazorClient_Todo\BlazorClient_Todo\Shared\bin\Debug\net7.0\BlazorClient_Todo.Shared.deps.json
+D:\Training\C# .NET Training\BlazorClient_Todo\BlazorClient_Todo\Shared\bin\Debug\net7.0\BlazorClient_Todo.Shared.dll
+D:\Training\C# .NET Training\BlazorClient_Todo\BlazorClient_Todo\Shared\bin\Debug\net7.0\BlazorClient_Todo.Shared.pdb
+D:\Training\C# .NET Training\BlazorClient_Todo\BlazorClient_Todo\Shared\obj\Debug\net7.0\BlazorClient_Todo.Shared.csproj.AssemblyReference.cache
+D:\Training\C# .NET Training\BlazorClient_Todo\BlazorClient_Todo\Shared\obj\Debug\net7.0\BlazorClient_Todo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\C# .NET Training\BlazorClient_Todo\BlazorClient_Todo\Shared\obj\Debug\net7.0\BlazorClient_Todo.Shared.AssemblyInfoInputs.cache
+D:\Training\C# .NET Training\BlazorClient_Todo\BlazorClient_Todo\Shared\obj\Debug\net7.0\BlazorClient_Todo.Shared.AssemblyInfo.cs
+D:\Training\C# .NET Training\BlazorClient_Todo\BlazorClient_Todo\Shared\obj\Debug\net7.0\BlazorClient_Todo.Shared.csproj.CoreCompileInputs.cache
+D:\Training\C# .NET Training\BlazorClient_Todo\BlazorClient_Todo\Shared\obj\Debug\net7.0\BlazorClient_Todo.Shared.dll
+D:\Training\C# .NET Training\BlazorClient_Todo\BlazorClient_Todo\Shared\obj\Debug\net7.0\refint\BlazorClient_Todo.Shared.dll
+D:\Training\C# .NET Training\BlazorClient_Todo\BlazorClient_Todo\Shared\obj\Debug\net7.0\BlazorClient_Todo.Shared.pdb
+D:\Training\C# .NET Training\BlazorClient_Todo\BlazorClient_Todo\Shared\obj\Debug\net7.0\ref\BlazorClient_Todo.Shared.dll

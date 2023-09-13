@@ -1,0 +1,45 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = BlazorClient_Todo.Client
+build_property.RootNamespace = BlazorClient_Todo.Client
+build_property.ProjectDir = d:\Training\C# .NET Training\BlazorClient_Todo\BlazorClient_Todo\Client\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = d:\Training\C# .NET Training\BlazorClient_Todo\BlazorClient_Todo\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[d:/Training/C\# .NET Training/BlazorClient_Todo/BlazorClient_Todo/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Training/C\# .NET Training/BlazorClient_Todo/BlazorClient_Todo/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Training/C\# .NET Training/BlazorClient_Todo/BlazorClient_Todo/Client/Pages/AddTodo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkVG9kby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-27lhkzno8e
+
+[d:/Training/C\# .NET Training/BlazorClient_Todo/BlazorClient_Todo/Client/Pages/DisplayTodo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzcGxheVRvZG8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-u4jq63a8lx
+
+[d:/Training/C\# .NET Training/BlazorClient_Todo/BlazorClient_Todo/Client/Pages/TodosView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9kb3NWaWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-pbomwg2n68
+
+[d:/Training/C\# .NET Training/BlazorClient_Todo/BlazorClient_Todo/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-r0be9ivivt
+
+[d:/Training/C\# .NET Training/BlazorClient_Todo/BlazorClient_Todo/Client/Shared/Navbar.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdmJhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-zzu46g3fjm

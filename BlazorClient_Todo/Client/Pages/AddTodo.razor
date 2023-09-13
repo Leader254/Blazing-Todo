@@ -1,0 +1,47 @@
+﻿ <div class="form">
+        <div class="form-group row">
+            <label for="Title" class="col-sm-2 col-form-label fw-bold">Title</label>
+            <div class="col-sm-10">
+            <input type="text" class="form-control shadow-none" id="Title" @bind-value="@newTodo.Title" placeholder="Title">
+            </div>
+        </div>
+        <div class="form-group row">
+            <label for="Description" class="col-sm-2 col-form-label fw-bold">Desc</label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control shadow-none" id="Description" @bind-value="@newTodo.Description" placeholder="Description" >
+            </div>
+        </div>
+        <div class="form-group row">
+            <label for="Date" class="col-sm-2 col-form-label fw-bold">Date</label>
+            <div class="col-sm-10">
+            <input type="date" class="form-control shadow-none" id="date" @bind-value="@newTodo.CreatedAt" placeholder="Date Created">
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class="col-sm-10">
+                <button class="btn btn-primary" @onclick="SubmitTodo">Add Todo</button>
+            </div>
+        </div>
+</div>
+@code {
+
+    public TodoDto newTodo = new TodoDto()
+        {
+            Id = Guid.NewGuid(),
+        };
+
+    [Parameter]
+    public EventCallback<TodoDto> OnTodoCreate { get; set; }
+
+    private async Task SubmitTodo()
+    {
+        await OnTodoCreate.InvokeAsync(newTodo);
+
+        //reset the todo
+        newTodo = new TodoDto()
+        {
+            Id = Guid.NewGuid(),
+        };
+    }
+
+}

@@ -1,0 +1,68 @@
+/* /Pages/AddTodo.razor.rz.scp.css */
+.form-control[b-27lhkzno8e]{
+    margin: 5px 0;
+}
+.form[b-27lhkzno8e]{
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+/* /Pages/DisplayTodo.razor.rz.scp.css */
+.card[b-u4jq63a8lx] {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+/* /Pages/TodosView.razor.rz.scp.css */
+/* /Shared/MainLayout.razor.rz.scp.css */
+.container[b-r0be9ivivt]{
+    height : 90vh;
+}
+
+
+@media (max-width: 640.98px) {
+    .top-row:not(.auth)[b-r0be9ivivt] {
+        display: none;
+    }
+
+    .top-row.auth[b-r0be9ivivt] {
+        justify-content: space-between;
+    }
+
+    .top-row[b-r0be9ivivt]  a, .top-row[b-r0be9ivivt]  .btn-link {
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 641px) {
+    .page[b-r0be9ivivt] {
+        flex-direction: row;
+    }
+
+    .sidebar[b-r0be9ivivt] {
+        width: 250px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+
+    .top-row[b-r0be9ivivt] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+
+    .top-row.auth[b-r0be9ivivt]  a:first-child {
+        flex: 1;
+        text-align: right;
+        width: 0;
+    }
+
+    .top-row[b-r0be9ivivt], article[b-r0be9ivivt] {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
+    }
+}
+/* /Shared/Navbar.razor.rz.scp.css */

@@ -1,0 +1,33 @@
+﻿    <div class="card">
+      <div class="card-body">
+        <h4 class="card-title card-header">@newTodo.Title</h4>
+        <p class="card-text">@newTodo.Description</p>
+        Posted on: <span class="font-weight-bold"><cite>@newTodo.CreatedAt.ToShortDateString()</cite></span>
+        <div class="flex-column justify-content-around">
+            <a href="#" @onclick="HandleEdit" class="btn btn-primary">Edit</a>
+            <a href="#" @onclick="HandleDelete" class="btn btn-danger">Delete</a>
+        </div>
+      </div>
+    </div>
+
+@code {
+    [Parameter]
+    public TodoDto newTodo { get; set; }
+
+    [Parameter]
+    public EventCallback<TodoDto> OnTodoDelete { get; set; }
+
+
+    [Parameter]
+    public EventCallback<TodoDto> OnTodoEdit { get; set; }
+
+    private async Task HandleDelete()
+    {
+        await OnTodoDelete.InvokeAsync(newTodo);
+    }
+
+    private async void HandleEdit()
+    {
+        await OnTodoEdit.InvokeAsync(newTodo);
+    }
+}
