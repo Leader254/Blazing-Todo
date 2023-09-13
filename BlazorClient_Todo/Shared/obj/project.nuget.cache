@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hXP6fr2NAmHtJ6d/JcTiHRCk910LFp3r4ZeyvL63gEQh4+JWJtfpCyuQuTLRkcMDknKE4kJFpxyuoO8j3CfdCg==",
+  "dgSpecHash": "Z6gbhmtnzUH+9QzZB4enyF+LgquTsxFgCk1PuPjY15tpIdWY5PMl8+KoAXTlepe7mBgo9xUc7hzkf7VpX0qrNQ==",
   "success": true,
-  "projectFilePath": "d:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Shared\\BlazorClient_Todo.Shared.csproj",
+  "projectFilePath": "D:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Shared\\BlazorClient_Todo.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

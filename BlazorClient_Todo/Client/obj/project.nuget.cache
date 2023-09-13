@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QmetUwgM9QGjkvVdhCrtDbsvDpVUWuyMsgNu3+2SVWg7IDsWha3FXie0FMwiih4DtNbGCtpbeceJ/Vdpt/kciw==",
+  "dgSpecHash": "lrrlMXFvd48eHm0v3nawZoeAkXFBPhn8YTQGRi1BkOPLdEv4eRy5taFcc+U0y2bl8KFwYfnO1HX5TWQ+h7TtXA==",
   "success": true,
-  "projectFilePath": "d:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Client\\BlazorClient_Todo.Client.csproj",
+  "projectFilePath": "D:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Client\\BlazorClient_Todo.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Samuel\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.10\\microsoft.aspnetcore.authorization.7.0.10.nupkg.sha512",
     "C:\\Users\\Samuel\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.10\\microsoft.aspnetcore.components.7.0.10.nupkg.sha512",
