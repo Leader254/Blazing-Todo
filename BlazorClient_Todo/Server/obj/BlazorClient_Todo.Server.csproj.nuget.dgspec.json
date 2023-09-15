@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Server\\BlazorClient_Todo.Server.csproj": {}
+    "d:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Server\\BlazorClient_Todo.Server.csproj": {}
   },
   "projects": {
-    "D:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Client\\BlazorClient_Todo.Client.csproj": {
+    "d:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Client\\BlazorClient_Todo.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Client\\BlazorClient_Todo.Client.csproj",
+        "projectUniqueName": "d:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Client\\BlazorClient_Todo.Client.csproj",
         "projectName": "BlazorClient_Todo.Client",
-        "projectPath": "D:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Client\\BlazorClient_Todo.Client.csproj",
+        "projectPath": "d:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Client\\BlazorClient_Todo.Client.csproj",
         "packagesPath": "C:\\Users\\Samuel\\.nuget\\packages\\",
-        "outputPath": "D:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Client\\obj\\",
+        "outputPath": "d:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Samuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Shared\\BlazorClient_Todo.Shared.csproj": {
-                "projectPath": "D:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Shared\\BlazorClient_Todo.Shared.csproj"
+              "d:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Shared\\BlazorClient_Todo.Shared.csproj": {
+                "projectPath": "d:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Shared\\BlazorClient_Todo.Shared.csproj"
               }
             }
           }
@@ -68,7 +68,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[7.0.10, 7.0.10]"
+              "version": "[7.0.11, 7.0.11]"
             }
           ],
           "frameworkReferences": {
@@ -76,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.308\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -85,14 +85,14 @@
         }
       }
     },
-    "D:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Server\\BlazorClient_Todo.Server.csproj": {
+    "d:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Server\\BlazorClient_Todo.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Server\\BlazorClient_Todo.Server.csproj",
+        "projectUniqueName": "d:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Server\\BlazorClient_Todo.Server.csproj",
         "projectName": "BlazorClient_Todo.Server",
-        "projectPath": "D:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Server\\BlazorClient_Todo.Server.csproj",
+        "projectPath": "d:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Server\\BlazorClient_Todo.Server.csproj",
         "packagesPath": "C:\\Users\\Samuel\\.nuget\\packages\\",
-        "outputPath": "D:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Server\\obj\\",
+        "outputPath": "d:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Samuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -103,18 +103,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.307\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.308\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Client\\BlazorClient_Todo.Client.csproj": {
-                "projectPath": "D:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Client\\BlazorClient_Todo.Client.csproj"
+              "d:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Client\\BlazorClient_Todo.Client.csproj": {
+                "projectPath": "d:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Client\\BlazorClient_Todo.Client.csproj"
               },
-              "D:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Shared\\BlazorClient_Todo.Shared.csproj": {
-                "projectPath": "D:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Shared\\BlazorClient_Todo.Shared.csproj"
+              "d:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Shared\\BlazorClient_Todo.Shared.csproj": {
+                "projectPath": "d:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Shared\\BlazorClient_Todo.Shared.csproj"
               }
             }
           }
@@ -153,18 +153,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.308\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Shared\\BlazorClient_Todo.Shared.csproj": {
+    "d:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Shared\\BlazorClient_Todo.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Shared\\BlazorClient_Todo.Shared.csproj",
+        "projectUniqueName": "d:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Shared\\BlazorClient_Todo.Shared.csproj",
         "projectName": "BlazorClient_Todo.Shared",
-        "projectPath": "D:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Shared\\BlazorClient_Todo.Shared.csproj",
+        "projectPath": "d:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Shared\\BlazorClient_Todo.Shared.csproj",
         "packagesPath": "C:\\Users\\Samuel\\.nuget\\packages\\",
-        "outputPath": "D:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Shared\\obj\\",
+        "outputPath": "d:\\Training\\C# .NET Training\\BlazorClient_Todo\\BlazorClient_Todo\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Samuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -208,7 +208,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.308\\RuntimeIdentifierGraph.json"
         }
       }
     }
